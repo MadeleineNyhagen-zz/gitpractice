@@ -1,4 +1,7 @@
 print("hello world")
+print("Hello!")
+print("Hello hello!")
+print("Hello! Goodbye!")
 print("alpha, bravo, charlie, delta")
 print("echo, foxtrot")
 print("Yay Pyladies")
